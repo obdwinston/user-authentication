@@ -1,0 +1,6 @@
+Facebook Authentication
+- Use cases > Authentication and account creation > Customize > Settings > Go to Settings > Valid OAuth Redirect URIs
+- Use cases > Authentication and account creation > Customize > Permissions > email > Add
+
+https://stackoverflow.com/questions/58262209/after-refresh-firebase-auth-current-user-returns-null
+https://stackoverflow.com/questions/61155701/how-to-prevent-infinite-loop-caused-by-onauthstatechanged-firebase-auth
