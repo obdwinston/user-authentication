@@ -135,7 +135,7 @@ const Profile = () => {
         <p>Sign Out</p>
       </div>
 
-      <img src={firebaseIcon} alt="firebase-icon" className="firebase-icon" />
+      {/* <img src={firebaseIcon} alt="firebase-icon" className="firebase-icon" /> */}
     </div>
   );
 };

@@ -298,7 +298,7 @@ const Home = () => {
         </div>
       </div>
 
-      <img src={firebaseIcon} alt="firebase-icon" className="firebase-icon" />
+      {/* <img src={firebaseIcon} alt="firebase-icon" className="firebase-icon" /> */}
     </div>
   );
 };
